@@ -1,0 +1,9 @@
+[submodule "libfec"]
+	path = libfec
+	url = ./libfec/
+[submodule "liquid-dsp"]
+	path = liquid-dsp
+	url = ./liquid-dsp/
+[submodule "quiet"]
+	path = quiet
+	url = ./quiet/
